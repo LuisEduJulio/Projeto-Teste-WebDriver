@@ -1,0 +1,47 @@
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Projeto Teste WebDriver.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Projeto Teste WebDriver.pdb
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Npgsql.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Npgsql.pdb
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\WebDriver.Support.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\WebDriver.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Buffers.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Memory.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Text.Json.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\bin\Debug\System.ValueTuple.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\obj\Debug\Projeto Teste WebDriver.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\obj\Debug\Projeto Teste WebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\obj\Debug\Projeto Teste WebDriver.csproj.CopyComplete
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\obj\Debug\Projeto Teste WebDriver.dll
+C:\Users\Eduardo\source\repos\Projeto Teste WebDriver\obj\Debug\Projeto Teste WebDriver.pdb
