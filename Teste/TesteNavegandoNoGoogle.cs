@@ -1,14 +1,13 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Remote;
 using System.Threading;
 
-namespace Projeto_Teste_WebDriver
+namespace Projeto_Teste_WebDriver.Teste
 {
     [TestClass]
-    public class Test
+    public class TesteNavegandoNoGoogle
     {
-
         static RemoteWebDriver driveFF;
 
         #region Config
@@ -42,6 +41,5 @@ namespace Projeto_Teste_WebDriver
             Thread.Sleep(500);
             driveFF.Quit();
         }
-
     }
 }

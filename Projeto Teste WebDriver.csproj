@@ -52,11 +52,11 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DSL\DSLGoogle.cs" />
-    <Compile Include="PAGE\PageAbstract.cs" />
-    <Compile Include="PAGE\PageGoogle.cs" />
-    <Compile Include="Test.cs" />
+    <Compile Include="Dsl\DSLGoogle.cs" />
+    <Compile Include="Page\PageAbstract.cs" />
+    <Compile Include="Page\PageGoogle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Teste\TesteNavegandoNoGoogle.cs" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
