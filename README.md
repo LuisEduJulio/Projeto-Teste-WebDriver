@@ -14,7 +14,10 @@ Selenium.WebDriver.GeckoDriver
 
 - Passos para executar o projeto
 
-> Baixar gekodriver: https://github.com/mozilla/geckodriver/releases
+ 
+<li>
+    <ul>Baixar gekodriver: https://github.com/mozilla/geckodriver/releases</ul>
+</li>
 > Colocar driver na pasta do projeto
 > Abrir o projeto
 > Compilar projeto
