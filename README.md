@@ -2,15 +2,15 @@
 
 - Pacotes para instalar
 
-> 1.Abrir o Gerenciador Pacotes
-> 2.Instalar os Pacotes: 
-> 3.MSTest.TestAdapter
-> 4.MSTest.TestFramework
-> 5.Npgsql.EntityFrameworkCore.PostgreSQL
-> 6.Selenium.Firefox.WebDriver
-> 7.Selenium.Support
-> 8.Selenium.WebDriver
-> 9.Selenium.WebDriver.GeckoDriver
+> 1. Abrir o Gerenciador Pacotes
+> 2. Instalar os Pacotes: 
+> 3. MSTest.TestAdapter
+> 4. MSTest.TestFramework
+> 5. Npgsql.EntityFrameworkCore.PostgreSQL
+> 6. Selenium.Firefox.WebDriver
+> 7. Selenium.Support
+> 8. Selenium.WebDriver
+> 9. Selenium.WebDriver.GeckoDriver
 
 - Passos para executar o projeto
 
