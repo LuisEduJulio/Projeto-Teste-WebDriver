@@ -14,14 +14,11 @@ Selenium.WebDriver.GeckoDriver
 
 - Passos para executar o projeto
 
- 
-<li>
-    <ul>Baixar gekodriver: https://github.com/mozilla/geckodriver/releases</ul>
-</li>
-> Colocar driver na pasta do projeto
-> Abrir o projeto
-> Compilar projeto
-> Abrir a pasta Teste
-> Clicar em cima do teste que deseja executar, com o mouse e abrir opções
-> Executar teste 
+> 1. Baixar gekodriver: https://github.com/mozilla/geckodriver/releases
+> 2. Colocar driver na pasta do projeto
+> 3. Abrir o projeto
+> 4. Compilar projeto
+> 5. Abrir a pasta Teste
+> 6. Clicar em cima do teste que deseja executar, com o mouse e abrir opções
+> 7. Executar teste 
 
