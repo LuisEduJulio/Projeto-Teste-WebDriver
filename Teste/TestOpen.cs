@@ -6,13 +6,13 @@ using System.Threading;
 namespace Projeto_Teste_WebDriver.Teste
 {
     [TestClass]
-    public class TesteNavegandoNoGoogle
+    public class TestOpen
     {
         static RemoteWebDriver driveFF;
 
         #region Config
-        string url = "https://www.google.com.br";
-        string seacrhGoogle = "Facebook";
+        string url = "http://automationpractice.com/index.php";
+        string email = "Seu email";
         #endregion
 
         [TestInitialize]
@@ -21,15 +21,20 @@ namespace Projeto_Teste_WebDriver.Teste
             driveFF = new FirefoxDriver();
             driveFF.Navigate().GoToUrl(url);
             Thread.Sleep(6000);
-            DSL.DSLGoogle.driverFF = driveFF;
+            DSL.DSLOpen.driverFF = driveFF;
         }
 
         [TestMethod]
-        public void TestGoogle()
+        public void TestEnterPage()
         {
-            DSL.DSLGoogle.VerifyLogoGoogle(seacrhGoogle);
+            DSL.DSLOpen.VerifyHome();
             Thread.Sleep(2000);
-            DSL.DSLGoogle.VerifySearch();
+        }
+        [TestMethod]
+        public void TestRegister()
+        {
+            DSL.DSLOpen.Register(email);
+            Thread.Sleep(2000);
         }
 
         [TestCleanup]
